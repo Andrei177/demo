@@ -8,6 +8,8 @@ const Catalog = () => {
     { id: 3, imgUrl: "" },
     { id: 4, imgUrl: "" },
     { id: 5, imgUrl: "" },
+    { id: 6, imgUrl: "" },
+    { id: 7, imgUrl: "" },
   ];
 
   return (

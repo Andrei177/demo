@@ -1,6 +1,6 @@
 .navbar{
-    width: 100vw;
-    position: fixed;
+    width: 100%;
+    position: sticky;
     display: flex;
     justify-content: space-around;
     bottom: 0;
