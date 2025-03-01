@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: 'SF Pro';
+  src: url('fonts/sf pro/SF-Pro-Display-Semibold.woff') format('woff');
+}
+@font-face {
+  font-family: 'SF Pro';
+  src: url('fonts/sf pro/SF-Pro-Display-Semibold.woff') format('woff');
+  font-weight: bold;
+}
+body {
+  font-family: 'SF Pro', sans-serif;
+}
+#root{
+  height: 100vh;
+}

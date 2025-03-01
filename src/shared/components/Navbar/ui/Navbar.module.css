@@ -1,0 +1,13 @@
+.navbar{
+    width: 100vw;
+    position: fixed;
+    display: flex;
+    justify-content: space-around;
+    bottom: 0;
+    background: rgba(8, 6, 6);
+    padding: 6px 0px;
+}
+.nav_item img{
+    height: 60px;
+    width: 60px;
+}

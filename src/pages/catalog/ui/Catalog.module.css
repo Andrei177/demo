@@ -1,0 +1,22 @@
+.wrapper {
+  width: 393px;
+  margin: 0 auto;
+}
+.title {
+  padding: 40px 0px 31px 0px;
+  color: #fff;
+  text-align: center;
+  font-feature-settings: "liga" off, "clig" off;
+  font-family: "SF Pro";
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 130%;
+  text-transform: uppercase;
+}
+.catalog {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 24px;
+  row-gap: 20px;
+}

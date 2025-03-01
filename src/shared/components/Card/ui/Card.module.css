@@ -1,0 +1,18 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card_img{
+    border-radius: 20px;
+    background: #FFF;
+    padding: 50px;
+    margin-bottom: 9px;
+}
+.card_title{
+    font-family: "SF Pro";
+    font-size: 16px;
+    color: #FFF;
+    font-weight: 590;
+}
